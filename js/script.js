@@ -19,7 +19,7 @@ let musica16 = document.querySelector('#musica16')
 
 musica1.onclick = function () {
 
-    pdf.src = '../assets/pdf/1. Meu sertão.pdf'
+    pdf.src = './assets/pdf/1. Meu sertão.pdf'
     console.log('musica 1')
 
 }
@@ -27,7 +27,7 @@ musica1.onclick = function () {
 
 musica2.onclick = function () {
 
-    pdf.src = '../assets/pdf/2. Amanheceu.pdf'
+    pdf.src = './assets/pdf/2. Amanheceu.pdf'
     console.log('musica 2')
 
 }
@@ -35,7 +35,7 @@ musica2.onclick = function () {
 
 musica3.onclick = function () {
 
-    pdf.src = '../assets/pdf/3. Alumiar.pdf'
+    pdf.src = './assets/pdf/3. Alumiar.pdf'
     console.log('musica 3')
 
 }
@@ -43,7 +43,7 @@ musica3.onclick = function () {
 
 musica4.onclick = function () {
 
-    pdf.src = '../assets/pdf/4. Eu preciso falar com você.pdf'
+    pdf.src = './assets/pdf/4. Eu preciso falar com você.pdf'
     console.log('musica 4')
 
 }
@@ -51,7 +51,7 @@ musica4.onclick = function () {
 
 musica5.onclick = function () {
 
-    pdf.src = '../assets/pdf/5. Quer ir mas eu vamos - Full Score.pdf'
+    pdf.src = './assets/pdf/5. Quer ir mas eu vamos - Full Score.pdf'
     console.log('musica 5')
 
 }
@@ -59,7 +59,7 @@ musica5.onclick = function () {
 
 musica6.onclick = function () {
 
-    pdf.src = '../assets/pdf/6. Caba valente.pdf'
+    pdf.src = './assets/pdf/6. Caba valente.pdf'
     console.log('musica 6')
 
 }
@@ -67,7 +67,7 @@ musica6.onclick = function () {
 
 musica7.onclick = function () {
 
-    pdf.src = '../assets/pdf/7. Flor da manhã.pdf'
+    pdf.src = './assets/pdf/7. Flor da manhã.pdf'
     console.log('musica 7')
 
 }
@@ -75,7 +75,7 @@ musica7.onclick = function () {
 
 musica8.onclick = function () {
 
-    pdf.src = '../assets/pdf/8. Comunhão.pdf'
+    pdf.src = './assets/pdf/8. Comunhão.pdf'
     console.log('musica 8')
 
 }
@@ -83,7 +83,7 @@ musica8.onclick = function () {
 
 musica9.onclick = function () {
 
-    pdf.src = '../assets/pdf/9. Com Muito Louvor.pdf'
+    pdf.src = './assets/pdf/9. Com Muito Louvor.pdf'
     console.log('musica 9')
 
 }
@@ -91,7 +91,7 @@ musica9.onclick = function () {
 
 musica10.onclick = function () {
 
-    pdf.src = '../assets/pdf/10. História com H - Partitura completa.pdf'
+    pdf.src = './assets/pdf/10. História com H - Partitura completa.pdf'
     console.log('musica 10')
 
 }
@@ -99,7 +99,7 @@ musica10.onclick = function () {
 
 musica11.onclick = function () {
 
-    pdf.src = '../assets/pdf/11. Consagração.pdf'
+    pdf.src = './assets/pdf/11. Consagração.pdf'
     console.log('musica 11')
 
 }
@@ -107,7 +107,7 @@ musica11.onclick = function () {
 
 musica12.onclick = function () {
 
-    pdf.src = '../assets/pdf/12. Vem Com Josué.pdf'
+    pdf.src = './assets/pdf/12. Vem Com Josué.pdf'
     console.log('musica 12')
 
 }
@@ -115,7 +115,7 @@ musica12.onclick = function () {
 
 musica13.onclick = function () {
 
-    pdf.src = '../assets/pdf/13. Galileu.pdf'
+    pdf.src = './assets/pdf/13. Galileu.pdf'
     console.log('musica 13')
 
 }
@@ -123,7 +123,7 @@ musica13.onclick = function () {
 
 musica14.onclick = function () {
 
-    pdf.src = '../assets/pdf/14. Rebuliço.pdf'
+    pdf.src = './assets/pdf/14. Rebuliço.pdf'
     console.log('musica 14')
 
 }
@@ -131,7 +131,7 @@ musica14.onclick = function () {
 
 musica15.onclick = function () {
 
-    pdf.src = '../assets/pdf/15. Feliz.pdf'
+    pdf.src = './assets/pdf/15. Feliz.pdf'
     console.log('musica 15')
 
 }
@@ -139,7 +139,7 @@ musica15.onclick = function () {
 
 musica16.onclick = function () {
 
-    pdf.src = '../assets/pdf/Eu sou teu - Full Score.pdf'
+    pdf.src = './assets/pdf/Eu sou teu - Full Score.pdf'
     console.log('musica 16')
 
 }
